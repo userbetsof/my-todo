@@ -86,4 +86,8 @@ Desktop.ini
 *.crt
 *.p12
 .secrets
+<<<<<<< HEAD
 secrets/
+=======
+secrets/
+>>>>>>> 885ac536d607a513944bd90c469bd7e121f25aa5
